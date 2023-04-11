@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/modular-block-react-app/static/css/main.4a3e0867.css",
+    "main.js": "/modular-block-react-app/static/js/main.86a99757.js",
+    "index.html": "/modular-block-react-app/index.html",
+    "main.4a3e0867.css.map": "/modular-block-react-app/static/css/main.4a3e0867.css.map",
+    "main.86a99757.js.map": "/modular-block-react-app/static/js/main.86a99757.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a3e0867.css",
+    "static/js/main.86a99757.js"
+  ]
+}
